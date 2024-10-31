@@ -1,0 +1,8 @@
+prefix=/home/hls/Desktop/brl_isaac_ws/devel
+
+Name: brl_chicken_2dnav
+Description: Description of brl_chicken_2dnav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

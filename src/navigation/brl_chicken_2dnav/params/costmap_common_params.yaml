@@ -1,0 +1,8 @@
+obstacle_range: 25
+raytrace_range: 3.0
+footprint: [[-0.3, -0.3], [-0.3, 0.3], [0.3, 0.3], [0.3, -0.3]]
+cost_scaling_factor: 3.0
+inflation_radius: 0.10
+observation_sources: laser_scan_sensor
+laser_scan_sensor: {sensor_frame: front_3d_lidar, data_type: LaserScan, topic: scan, marking: true, clearing: true}
+

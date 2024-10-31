@@ -1,0 +1,2 @@
+navigation/brl_chicken_2dnav
+-DCATKIN_DEVEL_PREFIX=/home/hls/Desktop/brl_isaac_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hls/Desktop/brl_isaac_ws/install -G Unix Makefiles
