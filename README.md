@@ -21,7 +21,7 @@ The `brl_chicken_2dnav` package is a ROS-based navigation system designed for 2D
 2. **Navigate to the package directory:**
 
    ```bash
-   cd src/navigation/brl_chicken_2dnav
+   cd ../brl_issac_ws
    ```
 
 3. **Build the package:**
